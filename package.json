@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-react-wptheme": "^3.4.1-wp.1"
+  }
+}
